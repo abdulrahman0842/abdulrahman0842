@@ -14,9 +14,9 @@ Hi there! I'm Abdul Rahman, a passionate developer with expertise in creating am
 
 Here are some of the projects I've worked on:
 
-- **News App**: [Description of project 1, its purpose, and technologies used]
-- **Drug House**: [Description of project 2, its purpose, and technologies used]
-- **Notes App**: [Description of project 3, its purpose, and technologies used]
+- **News App**:
+- **Drug House**: 
+- **Notes App**: 
 
 Feel free to explore my repositories to see more of my work!
 
