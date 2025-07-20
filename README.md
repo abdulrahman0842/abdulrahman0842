@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abdul Rahman 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFBF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFBF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
