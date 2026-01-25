@@ -15,22 +15,26 @@ I’m a passionate **Flutter developer** from India 🇮🇳 who loves turning i
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages & Frameworks
+
 <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
 ### 🔧 Tools & Technologies
+
 <p>
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/API Integration-4A90E2?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Integration-4A90E2?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### ⚙️ Version Control & Collaboration
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -40,11 +44,11 @@ I’m a passionate **Flutter developer** from India 🇮🇳 who loves turning i
 
 ## 📱 Projects
 
-| Project | Description |
-|--------|-------------|
-| 🔥 [**News App**](https://github.com/abdulrahman0842/news-app) | A dynamic app that fetches real-time news using API integration, complete with categories and channel-based filtering. |
-| 💊 [**Drug House**](https://github.com/abdulrahman0842/drug-house) | A modern UI/UX app that displays drug details like usage, mechanism, molecular formula, and more using structured data. |
-| 📝 [**Notes App**](https://github.com/abdulrahman0842/notes-app-using-provider) | A minimalist notes-taking app using Provider for state management. Clean and reusable architecture. |
+| Project                                                                         | Description                                                                                                             |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 🔥 [**News App**](https://github.com/abdulrahman0842/news-app)                  | A dynamic app that fetches real-time news using API integration, complete with categories and channel-based filtering.  |
+| 💊 [**Drug House**](https://github.com/abdulrahman0842/drug-house)              | A modern UI/UX app that displays drug details like usage, mechanism, molecular formula, and more using structured data. |
+| 📝 [**Notes App**](https://github.com/abdulrahman0842/notes-app-using-provider) | A minimalist notes-taking app using Provider for state management. Clean and reusable architecture.                     |
 
 👉 *Explore more in my pinned repositories!*
 
@@ -68,7 +72,7 @@ I’m a passionate **Flutter developer** from India 🇮🇳 who loves turning i
 
 ## 🤝 Contributing
 
-I'm always open to collaboration and contributions!  
+I'm always open to collaboration and contributions!
 If you want to suggest improvements, raise an issue, or work together — feel free to fork, clone, and submit a PR.
 
 ---
@@ -81,4 +85,4 @@ If you want to suggest improvements, raise an issue, or work together — feel f
 
 ---
 
-⭐ *Thanks for visiting my profile! Let’s build something amazing together.*  
+⭐ *Thanks for visiting my profile! Let’s build something amazing together.*
