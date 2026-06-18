@@ -1,19 +1,19 @@
 <h1 align="center">Hi there, I'm Abdul Rahman 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFBF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFBF&center=true&vCenter=true&width=500&lines=Full-Stack+%26+AI+Developer;MERN+Stack+Enthusiast;Building+RAG+%26+AI+Applications;Always+Learning+New+Tech" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a **Full-Stack Developer** specializing in the **MERN stack (MongoDB, Express, React, Node.js)** with hands-on experience building real-world applications.
+I’m a **Full-Stack Web and AI Developer** specializing in the **MERN stack (MongoDB, Express, React, Node.js)** and conversational AI integration. 
 
-* 🔧 Strong in **API development & backend architecture**
-* 🎨 Skilled in building **responsive and performant UIs**
-* ☁️ Experience with **cloud tools & deployment workflows**
-* ⚡ Currently improving **system design, performance optimization, and scalability**
+* 🤖 Experienced in building production-ready architectures with **Retrieval-Augmented Generation (RAG)** using LangChain and ChromaDB.
+* 🔧 Strong in **REST API engineering & custom database design**.
+* 🎨 Skilled in building **responsive and performant UIs** using Tailwind CSS.
+* ⚡ Currently focusing on **system design, semantic search retrieval, and scalability**.
 
 ---
 
@@ -27,16 +27,28 @@ I’m a **Full-Stack Developer** specializing in the **MERN stack (MongoDB, Expr
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+### 🤖 AI & Data Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG%20Architecture-4A90E2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20Embeddings-00FFBF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Semantic%20Search-FF6B6B?style=for-the-badge" />
 </p>
 
 ### 🗄️ Databases & Cloud
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-0052CC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/ImageKit-FF4F8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ImageKit.io-FF4F8B?style=for-the-badge" />
 </p>
 
 ### ⚙️ Tools & Technologies
@@ -54,46 +66,43 @@ I’m a **Full-Stack Developer** specializing in the **MERN stack (MongoDB, Expr
 
 ### 🛍️ Sparkle & Loop (Freelance Full-Stack Developer)
 
-🔗 [www.sparklenloop.com](http://www.sparklenloop.com)
+🔗 [www.sparklenloop.com](http://www.sparklenloop.com)  
 📅 Jan 2026 – Present
 
-* Built a **high-performance e-commerce platform** with React & Tailwind
-* Developed **admin dashboard** for real-time product & category management
-* Implemented **No-Auth checkout system** using WhatsApp API
-* Integrated **ImageKit** for optimized media delivery
-* Deployed application on **Netlify with custom domain & environment configs**
+* Engineered a **high-performance e-commerce platform** and secure Admin Dashboard using React and Tailwind CSS, utilizing Supabase for real-time CRUD operations.
+* Designed a seamless **"No-Auth" checkout flow** integrating WhatsApp API for order fulfillment.
+* Optimized media delivery using **ImageKit.io** for significantly reduced page load times.
+* Deployed application workflows on **Netlify**, managing custom domain mapping and secure environment variable architecture.
 
 ---
 
 ## 📱 Projects
 
+### 🤖 ChatDocs (AI PDF Chat Application)
+
+🔗 [https://github.com/abdulrahman0842/ChatDocs](https://github.com/abdulrahman0842/ChatDocs)
+
+* Engineered a full-stack document intelligence application featuring an interactive, context-aware Q&A interface utilizing **LLMs**.
+* Implemented an automated data ingestion pipeline using **LangChain** to extract, normalize, and split unstructured PDF data into optimized text chunks using contextual token overlap.
+* Designed a high-performance **Retrieval-Augmented Generation (RAG)** architecture, generating vector embeddings and orchestrating semantic search retrieval workflows via **ChromaDB**.
+
 ### 💊 RxManager (Pharmacy Management System)
 
-🔗 https://github.com/abdulrahman0842/rx-manager
+🔗 [https://github.com/abdulrahman0842/rx-manager](https://github.com/abdulrahman0842/rx-manager)
 
-* Full-stack app using **React + Node.js + Express**
-* Real-time **inventory tracking & stock management**
-* MongoDB for storing **pharmaceutical data & sales history**
-
----
-
-### 📰 The Daily (News Web App)
-
-🔗 https://github.com/abdulrahman0842/news-app
-
-* Real-time news using **News API integration**
-* Category-based browsing & multi-source filtering
-* Built with **React**
+* Developed a full-stack pharmacy inventory system using **React** for the frontend and **Node.js + Express** for the backend.
+* Built comprehensive inventory workflows, including automated purchase entries and **real-time stock tracking**.
+* Integrated **MongoDB** for persistent storage of pharmaceutical records and sales history.
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
 🥇 **1st Position – Protechnica Project Competition (2025)**
+* Won first prize for **Livo AI (Liver Disease Prediction App)** built using Flutter and REST API integration.
 
-* Built **Livo AI (Liver Disease Prediction App)**
-* Developed using **Flutter + REST APIs**
-* Presented in a competitive technical environment
+📜 **UI Full Stack with React – Naresh I Technologies (2025)**
+* Comprehensive training in MERN Stack development, focusing on React.js, Node.js, and Express API design.
 
 ---
 
